@@ -1,3 +1,7 @@
+# React Chat Application
+
+This project is basic idea of how to create a Chat Application in React using [Chatengine](https://chatengine.io/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
